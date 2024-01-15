@@ -1,4 +1,4 @@
-# Obsidian Sample Plugin
+# Bucket
 
 This is a sample plugin for Obsidian ([https://obsidian.md](https://obsidian.md)).
 
